@@ -1,0 +1,12 @@
+{
+  "sistema_operativo": "Windows",
+  "sistema_operativo_version": "10.0.26200",
+  "arquitectura": "AMD64",
+  "python_version": "3.13.15",
+  "python_implementacion": "CPython",
+  "nombre_equipo": "DESKTOP-TKUEOB0",
+  "procesadores_logicos": 8,
+  "modelo_procesador": "11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz",
+  "nucleos_fisicos": 4,
+  "ram_total_bytes": 16531197952
+}
